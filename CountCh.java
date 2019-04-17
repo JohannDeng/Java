@@ -1,4 +1,4 @@
-//Count how many specific char in a String
+//Count specific char in a String
 
 //For example, there are two 'o' in "Hello, I am Johann", so count=2
 
